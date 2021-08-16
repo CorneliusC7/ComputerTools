@@ -1,3 +1,3 @@
 # ComputerTools
 
-Free ttols to configure computers
+Free tools to configure computers
