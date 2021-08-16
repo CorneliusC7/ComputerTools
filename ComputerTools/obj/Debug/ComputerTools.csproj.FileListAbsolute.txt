@@ -1,0 +1,11 @@
+C:\Users\Asus\source\repos\ComputerTools\ComputerTools\bin\Debug\ComputerTools.exe.config
+C:\Users\Asus\source\repos\ComputerTools\ComputerTools\bin\Debug\ComputerTools.exe
+C:\Users\Asus\source\repos\ComputerTools\ComputerTools\bin\Debug\ComputerTools.pdb
+C:\Users\Asus\source\repos\ComputerTools\ComputerTools\obj\Debug\ComputerTools.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\ComputerTools\ComputerTools\obj\Debug\ComputerTools.Form1.resources
+C:\Users\Asus\source\repos\ComputerTools\ComputerTools\obj\Debug\ComputerTools.Properties.Resources.resources
+C:\Users\Asus\source\repos\ComputerTools\ComputerTools\obj\Debug\ComputerTools.csproj.GenerateResource.cache
+C:\Users\Asus\source\repos\ComputerTools\ComputerTools\obj\Debug\ComputerTools.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\ComputerTools\ComputerTools\obj\Debug\ComputerTools.exe
+C:\Users\Asus\source\repos\ComputerTools\ComputerTools\obj\Debug\ComputerTools.pdb
+C:\Users\Asus\source\repos\ComputerTools\ComputerTools\obj\Debug\ComputerTools.Form2.resources
